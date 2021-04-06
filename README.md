@@ -134,7 +134,7 @@ Membuat halaman ke 2 yg akan terhubung dengan halaman pertama menggunakan Hyperl
 ![11](https://user-images.githubusercontent.com/81839328/113713624-c331ef80-9711-11eb-95dd-ed6ae68ef6b2.JPG)
 
 ## JAWAB PERTANYAAN
-
+```
 1.	Lakukan perubahan pada kode sesuai dengan keinginan anda, amati perubahannya adakah error ketika terjadi kesalahan penulisan tag? 
 Tidak ada error, hanya saja jika kita salah menuliskan tag, perubahan tidak akan menjadi seperti yang kita inginkan. 
 
@@ -151,5 +151,4 @@ Tergantung kebutuhan, jika yang ingin kita sesuaikan hanya lebar cukup dengan at
 •	_blank membuat link terbuka di new tab.
 •	_self membuat link terbuka di current tab.
 •	_top untuk membuka link di frame paling atas (paling luar).
-•	_parent untuk membuka link di frame yang satu tingkat di atas frame link tersebut berada
-
+•	_parent untuk membuka link di frame yang satu tingkat di atas frame link tersebut berada.
